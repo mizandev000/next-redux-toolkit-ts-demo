@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Next.js + TypeScript + Tailwind CSS
 
 ## Getting Started
 
